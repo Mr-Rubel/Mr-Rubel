@@ -47,6 +47,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-rubel&" alt="mr-rubel" /></p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mr-Rubel)  
+
+![GitHub metrics](https://metrics.lecoq.io/Mr-Rubel)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rubel&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rubel" /> </p>
