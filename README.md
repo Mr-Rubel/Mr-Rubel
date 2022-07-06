@@ -2,7 +2,7 @@
 <h3 align="center">A Penetration Tester & Frontend Web Developer</h3>
 
 ## Skills & Experience : 
-* :computer: Python3 / JavaScript / PHP / Webcoding(HTML,CSS,Java Script ,PHP, MySQL)
+* :computer: Python3 / JavaScript / PHP / Webcoding(HTML,CSS,JavaScript ,PHP, MySQL)
 * :collision: Linux OS / Windows OS / Kali OS
  * :muscle: Cryptography / Steganography / Web-Pentesting
  * :skull: Ethical Hacking / Web-pentesting / Basic Networking / CTF 
@@ -20,8 +20,6 @@
        Hydra 
        etc
    
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rubel&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rubel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mijanur_rahman7" target="blank"><img src="https://img.shields.io/twitter/follow/mijanur_rahman7?logo=twitter&style=for-the-badge" alt="mijanur_rahman7" /></a> </p>
 
@@ -49,3 +47,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-rubel&" alt="mr-rubel" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rubel&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rubel" /> </p>
