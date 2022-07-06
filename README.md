@@ -19,17 +19,7 @@
        dirsearch /
        Hydra 
        etc
-   
 
-<p align="left"> <a href="https://twitter.com/mijanur_rahman7" target="blank"><img src="https://img.shields.io/twitter/follow/mijanur_rahman7?logo=twitter&style=for-the-badge" alt="mijanur_rahman7" /></a> </p>
-
-- 🌱 I’m currently learning **Ethical Hacking**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-Rubel](https://github.com/Mr-Rubel)
-
-- 💬 Ask me about **Penetration testing, ethical hacking, web design**
-
-- 📫 How to reach me **mijanurrahman.rubel2@gmail.com**
 
 <h3 align="left">My Social Media Links :</h3>
 <p align="left">
